@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/michal/Studying/the-c-programming-lang/chapter-1'
+make: Leaving directory `/Users/michal/Studying/the-c-programming-lang/chapter-1'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
